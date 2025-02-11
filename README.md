@@ -1,9 +1,7 @@
 # Jangan Lupa Scroll Fesnuk Setiap hari dan setiap saat
 
 ## About Me
-Lulusan Sarjana Manajemen, tapi malah suka ngoding
-
-Bakso Urat di deket Pom Perak enak bjirr
+Menolak semua ajakan kecuali Makan Bakso urat
 
 ## Stats
 
