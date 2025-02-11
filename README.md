@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ikan Spat Ikan Lele
 
-<!--
-**ssyahbandi/ssyahbandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Turunkan harga paketan Indihome
 
-Here are some ideas to get you started:
+# Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vonssy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssyahbandi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyahbandi&layout=compact&theme=radical)
+
+# Certificate
+
+![476801444_9513301478734009_5634448990349265523_n](https://github.com/user-attachments/assets/37a0cb16-6327-47d2-802c-ab8fc44b029a)
+
+# :(
+
+Kenapa kamu malas ngoding ?
+
+Aku :
+
+
+![1387385](https://github.com/user-attachments/assets/6fefcba7-ccbb-45d6-a78c-c2ee263a6829)
