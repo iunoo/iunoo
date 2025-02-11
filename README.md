@@ -1,6 +1,6 @@
-# Scroll Fesnuk Setiap hari dan setiap saat
+# Jangan Scroll Fesnuk Setiap hari dan setiap saat
 
-# About Me
+## About Me
 Turunkan harga paketan Indihome dan,
 
 Tetaplah ngoding walaupun Requirement di Konoha itu ga masuk akal
@@ -19,16 +19,16 @@ Tetaplah ngoding walaupun Requirement di Konoha itu ga masuk akal
     - Memahami Google Workspace atau Cloud Server.
     - Memahami sistem import/export.
 
-# Stats
+## Stats
 
 ![Vonssy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssyahbandi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyahbandi&layout=compact&theme=radical)
 
-# Certificate
+## Certificate
 
 ![476801444_9513301478734009_5634448990349265523_n](https://github.com/user-attachments/assets/37a0cb16-6327-47d2-802c-ab8fc44b029a)
 
-# Keterangan Lainnya
+## Keterangan Lainnya
 
 Kenapa kamu malas ngoding ?
 
