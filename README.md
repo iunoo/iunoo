@@ -1,4 +1,4 @@
-# Jangan Scroll Fesnuk Setiap hari dan setiap saat
+# Jangan Lupa Scroll Fesnuk Setiap hari dan setiap saat
 
 ## About Me
 Turunkan harga paketan Indihome dan,
