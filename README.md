@@ -1,4 +1,4 @@
-# Jangan Lupa Scroll Fesnuk Setiap hari dan setiap saat
+# Kapan Indonesia WEB go.id nya pada bener (?)
 
 ## About Me
 Menolak semua ajakan kecuali Makan Bakso urat
