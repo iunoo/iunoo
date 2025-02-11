@@ -1,7 +1,7 @@
 # Scroll Fesnuk Setiap hari dan setiap saat
 
 # About Me
-Turunkan harga paketan Indihome
+Turunkan harga paketan Indihome dan,
 
 Tetaplah ngoding walaupun Requirement di Konoha itu ga masuk akal
 
