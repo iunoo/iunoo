@@ -1,9 +1,7 @@
 # Jangan Lupa Scroll Fesnuk Setiap hari dan setiap saat
 
 ## About Me
-Turunkan harga paketan Indihome dan,
-
-Tetaplah ngoding walaupun Requirement di Konoha itu ga masuk akal
+Lulusan Sarjana Manajemen, tapi malah suka ngoding
 
 ## Stats
 
