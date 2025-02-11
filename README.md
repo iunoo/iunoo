@@ -2,6 +2,7 @@
 
 ## About Me
 Lulusan Sarjana Manajemen, tapi malah suka ngoding
+
 Bakso Urat di deket Pom Perak enak bjirr
 
 ## Stats
