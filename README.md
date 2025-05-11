@@ -5,7 +5,7 @@
 ![Internet](https://img.shields.io/badge/go.id_HTTPS-Still_404-red)
 ![Mood](https://img.shields.io/badge/Mood-Coding_with_Tears-blueviolet)
 
-![Alisa](https://tenor.com/view/alisa-kujou-roshidere-anime-whisper-naughty-gif-16580862275887010861.gif)
+![Alisa](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZyN2R2ZWY4cWlkdjNxZzY4YW42dXQ3N2RxdHlqcXcwMzdybGZ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1RvrZQir0DXmiRO0L/giphy.gif)
 
 ---
 
@@ -66,7 +66,7 @@ while(alisaIsHappy) {
 
 ---
 
-![GIF2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVmZW9kNXR5czU2aDF0ZnY5ajRtZWd4YTV5czNxazUzNmg4cnA1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ToMjGpP3Z3a1Q8Q3jrw/giphy.gif)
+![GIF2](https://tenor.com/view/alisa-kujou-roshidere-anime-food-meal-gif-1240672885476414624.gif)
 
 ![Alisa Mikhailovna](https://tenor.com/iCiZlyIblmG.gif)
 
