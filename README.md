@@ -1,4 +1,4 @@
-# 🧋 Sy-Mikhailovna Code Den – Powered by Waifu & WiFi Lemah
+# 🧋 Syndicate – Powered by Waifu & WiFi Lemah
 
 ![Waifu Status](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink)
 ![Sleep Schedule](https://img.shields.io/badge/Tidur-Optional-yellow)
@@ -13,7 +13,7 @@
 
 > "Ngoding demi waifu dan listrik subsidi."
 
-Aku **Sy-Mikhailovna**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
+Aku **Mikhailovna**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
 
 🧠 **Keahlian Khusus:**
 - Refactor sambil mendengarkan lagu galau anime
