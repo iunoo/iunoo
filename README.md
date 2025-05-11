@@ -1,4 +1,4 @@
-# 🧋 Syndicate – Powered by Waifu & WiFi Lemah
+# 🧋 Mikhailovna – Powered by Waifu & WiFi Lemah
 
 ![Waifu Status](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink)
 ![Sleep Schedule](https://img.shields.io/badge/Tidur-Optional-yellow)
