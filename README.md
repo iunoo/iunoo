@@ -13,7 +13,7 @@
 
 > "Ngoding demi waifu dan listrik subsidi."
 
-Aku **Mikhailovna Syahbandi**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
+Aku **Sy-Mikhailovna**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
 
 🧠 **Keahlian Khusus:**
 - Refactor sambil mendengarkan lagu galau anime
