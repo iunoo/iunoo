@@ -1,21 +1,92 @@
-## Kapan Indonesia WEB go.id nya pada bener (?)
+# 🧋 Mikhailovna-Sy's Code Den – Powered by Waifu & WiFi Lemah
 
-## About Me
-Menolak semua ajakan kecuali Makan Bakso urat
+![Waifu Status](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink)
+![Sleep Schedule](https://img.shields.io/badge/Tidur-Optional-yellow)
+![Internet](https://img.shields.io/badge/go.id_HTTPS-Still_404-red)
+![Mood](https://img.shields.io/badge/Mood-Coding_with_Tears-blueviolet)
 
-## Stats
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdoMGR6ZXgzZzFjcGhoOTdjd2Z1Y3plcnBuYjdna3E4a3NwczF6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif)
 
-![Vonssy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssyahbandi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyahbandi&layout=compact&theme=radical)
+---
 
-## Certificate
+## 🫠 Tentang Aku
 
-![476801444_9513301478734009_5634448990349265523_n](https://github.com/user-attachments/assets/37a0cb16-6327-47d2-802c-ab8fc44b029a)
+> "Ngoding demi waifu dan listrik subsidi."
 
-## Keterangan Lainnya
+Aku **Mikhailovna Syahbandi**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
 
-Kenapa kamu malas ngoding ?
+🧠 **Keahlian Khusus:**
+- Refactor sambil mendengarkan lagu galau anime
+- Ngakalin bug pake logika kartun
+- Bertahan hidup dengan internet ala kadisdukcapil
 
-Aku :
+📡 **Kondisi Harian:**
+- Router kadang nganggur, kadang mendadak patriotik (disconnect jam kerja)
+- Keyboard: 50% shortcut, 50% air mata
+- Notion-ku isinya: wishlist keyboard, task batal, dan gambar waifu
 
-![1387385](https://github.com/user-attachments/assets/6fefcba7-ccbb-45d6-a78c-c2ee263a6829)
+💡 **Motivasi Hidup:**
+
+```js  
+while(alisaIsHappy) {  
+    code();  
+}  
+```
+
+---
+
+## 🛠️ Tech Stack (a.k.a. Senjata Tempur)
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel)
+
+**Tools & Extra:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
+![Tears](https://img.shields.io/badge/-Tears-Debugger_Activated-lightgrey)
+![Mental Stability](https://img.shields.io/badge/-Mental_Stability-Low-critical)
+
+---
+
+## 📺 Wibu Integration
+
+> "Kalau ISP bisa se-flexible karakter isekai, mungkin aku udah ngoding dari dunia paralel."
+
+- 🖼 Wallpaper: Alisa Mikhailovna in 4K (dua monitor, satu buat terminal, satu buat senyum)
+- 🎧 BGM: Anime OP/ED yang isinya tangisan dan semangat hidup
+- 🎮 IDE Theme: Tokyo Night with a touch of kesepian
+- 📦 Side Project:
+  - Convert JSON ke novel visual VNDS
+  - CLI waifu-summoner (masih tahap doa dan angan)
+  - Simulasi e-KTP online pake JavaScript (404 by design)
+
+---
+
+![GIF2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVmZW9kNXR5czU2aDF0ZnY5ajRtZWd4YTV5czNxazUzNmg4cnA1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ToMjGpP3Z3a1Q8Q3jrw/giphy.gif)
+
+![Alisa Mikhailovna](https://tenor.com/iCiZlyIblmG.gif)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssyahbandi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyahbandi&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Let’s Talk
+
+- 🧠 Discord: `Mikhailovna#1945`
+- 📫 Email: `mikhailovna@waifu.dev`
+- 🚪 **Kalau email ga dibales, berarti aku lagi debat sama petugas pajak**
+
+---
+
+> *"Kalau ISP bisa sesayang aku ke waifu, mungkin stream anime gak bakal buffering tiap malam minggu."*
