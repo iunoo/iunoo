@@ -81,8 +81,8 @@ while(alisaIsHappy) {
 
 ## 💬 Let’s Talk
 
-- 🧠 Discord: `Mikhailovna#1945`
-- 📫 Email: `mikhailovna@waifu.dev`
+- 🧠 Discord: ``
+- 📫 Email: ``
 - 🚪 **Kalau email ga dibales, berarti aku lagi debat sama petugas pajak**
 
 ---
