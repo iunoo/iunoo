@@ -7,8 +7,6 @@
 
 ![Alisa](https://tenor.com/view/alisa-kujou-roshidere-anime-whisper-naughty-gif-16580862275887010861.gif)
 
-![Alisa2](https://tenor.com/view/alisa-kujou-roshidere-anime-cute-blush-gif-3629745148753772226.gif)
-
 ---
 
 ## 🫠 Tentang Aku
