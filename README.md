@@ -1,11 +1,13 @@
-# 🧋 Sy-MikhailovnaC ode Den – Powered by Waifu & WiFi Lemah
+# 🧋 Sy-Mikhailovna Code Den – Powered by Waifu & WiFi Lemah
 
 ![Waifu Status](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink)
 ![Sleep Schedule](https://img.shields.io/badge/Tidur-Optional-yellow)
 ![Internet](https://img.shields.io/badge/go.id_HTTPS-Still_404-red)
 ![Mood](https://img.shields.io/badge/Mood-Coding_with_Tears-blueviolet)
 
-![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdoMGR6ZXgzZzFjcGhoOTdjd2Z1Y3plcnBuYjdna3E4a3NwczF6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif)
+![Alisa](https://tenor.com/view/alisa-kujou-roshidere-anime-whisper-naughty-gif-16580862275887010861.gif)
+
+![Alisa2](https://tenor.com/view/alisa-kujou-roshidere-anime-cute-blush-gif-3629745148753772226.gif)
 
 ---
 
@@ -49,8 +51,6 @@ while(alisaIsHappy) {
 **Tools & Extra:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
-![Tears](https://img.shields.io/badge/-Tears-Debugger_Activated-lightgrey)
-![Mental Stability](https://img.shields.io/badge/-Mental_Stability-Low-critical)
 
 ---
 
