@@ -1,4 +1,4 @@
-# 🧋 Mikhailovna-Sy's Code Den – Powered by Waifu & WiFi Lemah
+# 🧋 Sy-MikhailovnaC ode Den – Powered by Waifu & WiFi Lemah
 
 ![Waifu Status](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink)
 ![Sleep Schedule](https://img.shields.io/badge/Tidur-Optional-yellow)
