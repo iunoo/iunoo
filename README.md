@@ -13,7 +13,7 @@
 
 > "Ngoding demi waifu dan listrik subsidi."
 
-Aku **Mikhailovna**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
+Aku **Mikha**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
 
 🧠 **Keahlian Khusus:**
 - Refactor sambil mendengarkan lagu galau anime
@@ -70,14 +70,6 @@ while(alisaIsHappy) {
 | AWS | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) | Platform cloud untuk hosting dan layanan lainnya. |
 | Postman | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) | Alat untuk menguji dan mengembangkan API. |
 | npm | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) | Manajer paket untuk dependensi JavaScript dan Node.js. |
-
----
-
-| Deskripsi | Badge |
-|-----------|-------|
-| GitHub Stars | ![GitHub Stars](https://img.shields.io/github/stars/facebook/react?style=social) |
-| npm Version (React) | ![npm](https://img.shields.io/npm/v/react?color=CB3837&logo=npm) |
-| Build Status | ![Build](https://img.shields.io/github/workflow/status/expressjs/express/CI?logo=github) |
 
 ---
 
