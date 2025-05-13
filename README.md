@@ -1,11 +1,16 @@
 # ![Header Dinamis](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=800&height=50&lines=MIKHAILOVNA+%E2%80%93+POWERED+BY+WAIFU+%26+WIFI+LEMAH;MIKHAILOVNA+%E2%80%93+NGODING+SANTAI+BARENG+ALISA;MIKHAILOVNA+%E2%80%93+WIFI+LEMAH+TAPI+SEMANGAT+KUAT&vCenter=true)
 
-![Waifu Status](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink)
-![Sleep Schedule](https://img.shields.io/badge/Tidur-Optional-yellow)
-![Internet](https://img.shields.io/badge/go.id_HTTPS-Still_404-red)
-![Mood](https://img.shields.io/badge/Mood-Coding_with_Tears-blueviolet)
+![Waifu](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink) 
+![Tidur](https://img.shields.io/badge/Tidur-Optional-yellow) 
+![Internet](https://img.shields.io/badge/go.id-Still_404-red) 
+![Mood](https://img.shields.io/badge/Mood-Coding_with_Tears-blueviolet)  
 
 ![Alisa](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZyN2R2ZWY4cWlkdjNxZzY4YW42dXQ3N2RxdHlqcXcwMzdybGZ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1RvrZQir0DXmiRO0L/giphy.gif)
+
+![Anime Addict](https://img.shields.io/badge/Anime-Addict-purple) 
+![Powered by Boba](https://img.shields.io/badge/Powered_by-Alisa-brown) 
+![Alisa Happy](https://img.shields.io/badge/Alisa-Happy-lightpink) 
+![Makanan Favorite](https://img.shields.io/badge/Makanan_Favorite-Indomie_Goreng-chocolate)
 
 ---
 
