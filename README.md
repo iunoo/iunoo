@@ -42,39 +42,7 @@ while(alisaIsHappy) {
 
 ## 🛠️ Tech Stack
 
-### Frontend
-| Teknologi | Badge | Deskripsi |
-|-----------|-------|-----------|
-| HTML5 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Bahasa markup untuk menyusun konten di web. |
-| CSS3 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Bahasa untuk mendesain dan mengatur tampilan halaman web. |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Bahasa pemrograman untuk aplikasi web interaktif. |
-| React | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | Library JavaScript untuk membangun antarmuka pengguna (UI). |
-| Vue.js | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) | Framework JavaScript progresif untuk membangun UI. |
-| Angular | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | Platform untuk aplikasi web dan mobile. |
-| Bootstrap | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | Framework CSS untuk desain responsif dan mobile-first. |
-| Tailwind CSS | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) | Framework CSS berbasis utility untuk pengembangan UI cepat. |
-
-### Backend
-| Teknologi | Badge | Deskripsi |
-|-----------|-------|-----------|
-| Node.js | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | Runtime JavaScript untuk aplikasi server yang skalabel. |
-| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Bahasa serbaguna untuk backend, data science, dan otomatisasi. |
-| Java | ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) | Bahasa tangguh untuk aplikasi enterprise. |
-| Ruby | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) | Bahasa dinamis, sering digunakan dengan Rails untuk web. |
-| PHP | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | Bahasa scripting server untuk pengembangan web. |
-| Go | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | Bahasa tipe statis untuk sistem backend performa tinggi. |
-| Express | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | Framework Node.js minimalis untuk API dan aplikasi web. |
-
-### Tools & Extras
-| Teknologi | Badge | Deskripsi |
-|-----------|-------|-----------|
-| Git | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | Sistem kontrol versi untuk melacak perubahan kode. |
-| GitHub | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | Platform untuk hosting dan kolaborasi kode. |
-| VSCode | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) | Editor kode ringan dengan banyak ekstensi. |
-| Docker | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | Platform untuk mengemas aplikasi dalam container. |
-| AWS | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) | Platform cloud untuk hosting dan layanan lainnya. |
-| Postman | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) | Alat untuk menguji dan mengembangkan API. |
-| npm | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) | Manajer paket untuk dependensi JavaScript dan Node.js. |
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="79" height="79" /></div>
 
 ---
 
