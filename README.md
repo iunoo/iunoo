@@ -1,84 +1,66 @@
-# ![Header Dinamis](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=800&height=50&lines=MIKHAILOVNA+%E2%80%93+POWERED+BY+WAIFU+%26+WIFI+LEMAH;MIKHAILOVNA+%E2%80%93+NGODING+SANTAI+BARENG+ALISA;MIKHAILOVNA+%E2%80%93+WIFI+LEMAH+TAPI+SEMANGAT+KUAT&vCenter=true)
-
-![Waifu](https://img.shields.io/badge/Waifu-Alisa_Mikhailovna-pink) 
-![Tidur](https://img.shields.io/badge/Tidur-Optional-yellow) 
-![Internet](https://img.shields.io/badge/go.id-Still_404-red) 
-![Mood](https://img.shields.io/badge/Mood-Coding_with_Tears-blueviolet)  
-
-![Alisa](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZyN2R2ZWY4cWlkdjNxZzY4YW42dXQ3N2RxdHlqcXcwMzdybGZ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1RvrZQir0DXmiRO0L/giphy.gif)
-
-![Anime Addict](https://img.shields.io/badge/Anime-Addict-purple) 
-![Powered by Boba](https://img.shields.io/badge/Powered_by-Alisa-brown) 
-![Alisa Happy](https://img.shields.io/badge/Alisa-Happy-lightpink) 
-![Makanan Favorite](https://img.shields.io/badge/Makanan_Favorite-Indomie_Goreng-chocolate)
-
----
-
-## 🫠 Tentang Aku
-
-> "Ngoding demi waifu dan listrik subsidi."
-
-Aku **Mikha**, warga kelas menengah rasa low-level function, developer yang lebih sering `npm run fix` daripada tidur siang. Hidup di antara 3 dunia: coding, anime, dan notifikasi tagihan PLN.
-
-🧠 **Keahlian Khusus:**
-- Refactor sambil mendengarkan lagu galau anime
-- Ngakalin bug pake logika kartun
-- Bertahan hidup dengan internet ala kadisdukcapil
-
-📡 **Kondisi Harian:**
-- Router kadang nganggur, kadang mendadak patriotik (disconnect jam kerja)
-- Keyboard: 50% shortcut, 50% air mata
-- Notion-ku isinya: wishlist keyboard, task batal, dan gambar waifu
-
-💡 **Motivasi Hidup:**
-
-```js  
-while(alisaIsHappy) {  
-    code();  
-}  
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="79" height="79" /></div>
-
----
-
-## 📺 Wibu Integration
-
-> "Kalau ISP bisa se-flexible karakter isekai, mungkin aku udah ngoding dari dunia paralel."
-
-- 🖼 Wallpaper: Alisa Mikhailovna in 4K (dua monitor, satu buat terminal, satu buat senyum)
-- 🎧 BGM: Anime OP/ED yang isinya tangisan dan semangat hidup
-- 🎮 IDE Theme: Tokyo Night with a touch of kesepian
-- 📦 Side Project:
-  - Convert JSON ke novel visual VNDS
-  - CLI waifu-summoner (masih tahap doa dan angan)
-  - Simulasi e-KTP online pake JavaScript (404 by design)
-
----
-
-![GIF2](https://tenor.com/view/alisa-kujou-roshidere-anime-food-meal-gif-1240672885476414624.gif)
-
-![Alisa Mikhailovna](https://tenor.com/iCiZlyIblmG.gif)
-
----
-
-## 📊 GitHub Stats
+# 👨‍💻 iunoo – Software Engineer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunoo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iunoo&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=iunoo&color=blueviolet)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iunoo)
 
 ---
 
-## 💬 Let’s Talk
+## 👋 Tentang Saya
 
-- 🧠 Discord: ``
-- 📫 Email: ``
-- 🚪 **Kalau email ga dibales, berarti aku lagi debat sama petugas pajak**
+Halo! Saya **iunoo**, seorang Software Engineer yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
+
+🧠 **Spesialisasi:**
+- Otomatisasi via Google Apps Script (spreadsheet, drive, form)
+- Bot Telegram & sistem internal perusahaan
+- Konversi file dan integrasi sistem perpajakan
+- CLI tools & skrip praktis sehari-hari
+
+> "Bikin tool kecil, hemat kerja besar."
 
 ---
 
-> *"Kalau ISP bisa sesayang aku ke waifu, mungkin stream anime gak bakal buffering tiap malam minggu."*
+## 🚀 Tools & Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![Spreadsheet](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🧪 Proyek Unggulan
+
+| # | Project | Deskripsi Singkat | Link |
+|---|---------|-------------------|------|
+| 1 | **Renamerged** | Rename otomatis faktur pajak keluaran berdasar nama dalam PDF. | [GitHub](https://github.com/iunoo/renamerged) |
+| 2 | **Bot Cek Stok** | Bot Telegram untuk cek stok internal perusahaan. | [GitHub](https://github.com/iunoo/bot-CekStok) |
+| 3 | **Corestress** | Konversi file raw ke format Coretax. | [GitHub](https://github.com/iunoo/Corestress) |
+| 4 | **Corestress V2** | Versi lanjutan dengan spreadsheet, tanpa DB lokal. | Belum dirilis |
+| 5 | **Excel to XML Coretax** | Konversi Excel ke format XML untuk Coretax. | Belum dirilis |
+| 6 | **Auto Input KTP/NPWP** | Upload otomatis foto KTP/NPWP ke Drive + spreadsheet. | [GitHub](https://github.com/iunoo/bot-AutoInputKTPNPWP) |
+| 7 | **TikTok Downloader Bot** | Unduh video TikTok tanpa watermark + audio terpisah. | [GitHub](https://github.com/iunoo/Tiktok_Downloader) |
+
+---
+
+## 🌟 Statistik & Aktivitas
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iunoo&theme=tokyonight&hide_border=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=iunoo&theme=tokyonight&row=1&no-frame=true&margin-w=10)
+
+---
+
+## 📬 Kontak
+
+- 📫 Email: _[isi emailmu di sini]_  
+- 💬 Discord: _[isi username Discord]_  
+- ☕ Ngobrol santai soal script & automasi? DM aja!
+
+---
+
+> "Automasi bukan cuma biar cepet, tapi biar hidup gak ribet."
