@@ -57,8 +57,7 @@ Halo! Saya **iunoo**, seorang Software Engineer yang gemar membangun alat bantu 
 
 ## 📬 Kontak
 
-- 📫 Email: _[isi emailmu di sini]_  
-- 💬 Discord: _[isi username Discord]_  
+- 📫 Email: _prasas.ona@gmail.com_  
 - ☕ Ngobrol santai soal script & automasi? DM aja!
 
 ---
