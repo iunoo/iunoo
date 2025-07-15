@@ -24,13 +24,13 @@ Halo! Saya **iunoo**, seorang Software Engineer yang gemar membangun alat bantu 
 ## 🚀 Tools & Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-![Spreadsheet](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python]( https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Apps Script]( https://img.shields.io/badge/-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Node.js]( https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Telegram Bot]( https://img.shields.io/badge/-Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![Spreadsheet]( https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Git]( https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode]( https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
