@@ -1,4 +1,4 @@
-# 👨‍💻 iunoo – Software Engineer
+# 👨‍💻 iunoo – DevOps
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunoo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iunoo&layout=compact&theme=tokyonight)
@@ -9,7 +9,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **iunoo**, seorang Software Engineer yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
+Halo! Saya **iunoo**, seorang DevOps yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
 
 🧠 **Spesialisasi:**
 - Otomatisasi via Google Apps Script (spreadsheet, drive, form)
